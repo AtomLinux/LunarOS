@@ -6,3 +6,9 @@ LunarOS is a modern operating system based on Windows 10 designed to provide use
 We believe that LunarOS is the perfect choice for any user looking for a reliable and secure operating system. With its stripped down design, you can experience lightning-fast performance with minimal effort. Download LunarOS today and start taking advantage of its amazing features.
 
 NOTE: You must use a valid Windows 10 Pro product key to activate LunarOS. We do not endorse or condone piracy.
+
+Main Download:
+https://www.mediafire.com/file/ui9x2aquvhipk7s/LunarOS_2023.06.iso/file
+
+LunarOS Starter Pack Download:
+https://www.mediafire.com/file/ktae13xl8ual8ls/LunarOS_Starter_Kit.zip/file
